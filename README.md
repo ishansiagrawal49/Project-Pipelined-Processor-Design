@@ -1,4 +1,4 @@
-# ICS233-Project-Pipelined-Processor-Design
+# Project-Pipelined-Processor-Design
 
 # Project Objectives: 
 	• Designing a Pipelined 16-bit MIPS-like processor 
